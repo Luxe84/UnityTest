@@ -1,14 +1,16 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Library/
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+[Bb]uild/
+sysinfo.txt
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-ExportedObj/
-obj/
+[Ee]xported[Oo]bj/
 *.svd
 *.userprefs
 /*.csproj
@@ -18,14 +20,15 @@ obj/
 *.user
 *.unityproj
 *.booproj
+*.tmp
  
 # ============ #
 # OS generated #
 # ============ #
-.DS_Store
-.DS_Store?
+.DS_Store*
 ._*
 .Spotlight-V100
 .Trashes
+Icon?
 ehthumbs.db
-Thumbs.db
+[Tt]humbs.db
