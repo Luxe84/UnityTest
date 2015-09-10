@@ -66,7 +66,7 @@ public class RayCast : MonoBehaviour {
 			Debug.DrawLine(bboxFTR, bboxBTR, Color.green);
 			Debug.DrawLine(bboxFBL, bboxBBL, Color.green);
 			Debug.DrawLine(bboxFBR, bboxBBR, Color.green);
-
+		
 		}
 
 	}
